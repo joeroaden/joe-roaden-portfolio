@@ -4,8 +4,13 @@
 
 .sections {
   color: darkcyan
+  
 }
 
 .fancy {
   font-style: oblique;
+}
+
+.columns {
+  float: right;
 }
