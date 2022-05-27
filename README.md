@@ -15,7 +15,9 @@
 
 _This simple webpage provides a list of projects I have worked on as well as a short about me section. This webpage utilizes css styling and includes the required types of html per the project instructions_
 
-_This project's GitHub repo can be found at the following link_ [GitHub Pages](https://github.com/joeroaden/joe-roaden-portfolio).
+_This project's GitHub repo can be found at the following link_ [GitHub Pages](https://github.com/joeroaden/joe-roaden-portfolio).  
+
+_This project can also be viewed directly at_ {GitHub IO}(https://joeroaden.github.io/joe-roaden-portfolio/)
 
 ## Setup/Installation Requirements
 
